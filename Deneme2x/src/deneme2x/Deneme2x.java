@@ -7,7 +7,7 @@ package deneme2x;
 
 /**
  *
- * @author OÄŸuz Can
+ * @author Oðuz Can
  */
 public class Deneme2x {
 
@@ -17,7 +17,7 @@ public class Deneme2x {
     public static void main(String[] args) {
       int kalem =5;
       int silgi = 10;
-      int defter = 51;
+      int defter = 25;
     }
     
 }
