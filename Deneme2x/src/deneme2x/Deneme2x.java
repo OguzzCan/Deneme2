@@ -16,6 +16,7 @@ public class Deneme2x {
      */
     public static void main(String[] args) {
       int kalem =5;
+      int silgi = 10;
     }
     
 }
